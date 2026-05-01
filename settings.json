@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "vortexgamerz6.aternos.me:22897",
+    "port": 22897,
     "version": "1.21.1"
   },
   "position": {
